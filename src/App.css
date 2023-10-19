@@ -1,0 +1,59 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+body{
+  box-sizing: border-box;
+  padding: 0;
+}
+.Navbar{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  column-gap: 1em;
+  justify-content: center;
+  margin:0;
+  padding: 0;
+ background-color: rgb(225, 105, 105);
+ font-weight: lighter;
+}
+.location-details{
+  display: flex;
+  flex-direction: row;
+  padding: 3em;
+  margin: 1em;
+  border-bottom: solid rgb(214, 210, 210);
+}
+.location-image{
+  max-width: 25%;
+  height: auto;
+  border-radius: 5%;
+}
+.location-info{
+  display: flex;
+  flex-direction: column;
+  padding: 1.25em;
+  text-align: left;
+}
+.location-name{
+  display: flex;
+  flex-direction: row;
+  column-gap: 0.45em;
+  align-items: center;
+}
+.country{
+margin:0;
+letter-spacing: 0.20em;
+}
+.location{
+padding: 0;
+margin:0;
+}
+.dates{
+font-size: 0.85rem;
+}
+.description{
+  margin-top:0;
+}
