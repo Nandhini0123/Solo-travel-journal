@@ -57,5 +57,26 @@ export default [
         imageUrl: "Door-county.jpg"
     },
 
+    {
+        title: "Las Vegas",
+        location: "Nevada, USA",
+        googleMapsUrl: "https://maps.app.goo.gl/mNtRaZvEUmKfXvtT9",
+        startDate: "24 April, 2023",
+        endDate: "27 April, 2023",
+        description: " Las Vegas is an internationally renowned major resort city, known primarily for its gambling, shopping, fine dining, entertainment, and nightlife, with most venues centered on downtown Las Vegas and more so the Las Vegas Strip just outside city limits.The city bills itself as the Entertainment Capital of the World, and is famous for its luxurious and extremely large casino-hotels.",
+        imageUrl: "LasVegas.jpg"
+    },
+
+    {
+        title: "Grand Canyon",
+        location: "Arizona, USA",
+        googleMapsUrl: "https://maps.app.goo.gl/y7CQMHuCyShzwP9z6",
+        startDate: "24 April, 2023",
+        endDate: "27 April, 2023",
+        description: "The Grand Canyon is a natural formation distinguished by layered bands of red rock, revealing millions of years of geological history in cross-section. Vast in scale, the canyon averages 10 miles across and a mile deep along its 277-mile length. Much of the area is a national park, with Colorado River white-water rapids and sweeping vistas.  ",
+        imageUrl: "GrandCanyon.jpg"
+    },
+
+
 
 ]

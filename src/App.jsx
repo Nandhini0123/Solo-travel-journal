@@ -7,12 +7,13 @@ import data from './data.jsx'
 function App() {
   const information = data.map( places => {
     return <Info
-    img={places.imageUrl} 
-    country={places.location}
-    title={places.title}
-    starttime={places.startDate}
-    endtime={places.endDate}
-    details={places.description}
+    {...places}
+    // img={places.imageUrl} 
+    // country={places.location}
+    // title={places.title}
+    // starttime={places.startDate}
+    // endtime={places.endDate}
+    // details={places.description}
     />
   } )
   return (
