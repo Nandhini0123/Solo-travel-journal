@@ -16,7 +16,7 @@ export default [
         startDate: "12 April, 2018",
         endDate: "15 April, 2018",
         description: "Key West, a U.S. island city, is part of the Florida Keys archipelago. It's also Florida's southernmost point, lying roughly 90 miles north of Cuba. Famed for its pastel-hued, conch-style houses and the coral reefs",
-        imageUrl: "Keywest.jpg"
+        imageUrl: "/Keywest.jpg"
     },
 
     {

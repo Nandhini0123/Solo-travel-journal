@@ -3,7 +3,7 @@ export default function Info(props) {
     return (
         <div className="location-details">
          
-          <img className="location-image" src={`../src/Images/${props.imageUrl}`} alt={`picture of the ${props.title}`}/>
+          <img className="location-image" src={`../public/Images/${props.imageUrl}`} alt={`picture of the ${props.title}`}/>
           
           <div className="location-info">
             <div className="location-name">
