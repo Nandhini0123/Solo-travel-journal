@@ -1,8 +1,11 @@
 <strong>Title - Travel Journal</strong>
 
-This is my very first React project. In this project a static web page is built using React, where React renders the datas in a repitative pattern from the data array stored in a data file
+<strong>Live link : </strong> https://effortless-lebkuchen-c83e9d.netlify.app/
 
-This projects shows how using props components can be reused
+
+This is my very first React project. In this project a static web page is built using React, where React renders the components in a repitative pattern from the data array stored in a data file
+
+We can add more travel location to  the web page just by adding more travel datas into the data file
 
 __This project uses__
 
@@ -12,7 +15,19 @@ __This project uses__
 
 - spread syntax
 
-Dev Dependencies:
+- JSX
+
+- JavaScript
+
+- CSS
+
+__Running this project locally__
+
+1. Clone this project locally
+2. Run "npm install" in your command line
+3. Run "npm run dev" in your command line
+
+__Dev Dependencies:__
 
 React
 
